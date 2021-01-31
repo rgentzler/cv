@@ -93,7 +93,7 @@ Disclaimer {#disclaimer}
 
 Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code: [github.com/rgentzler/ryans-resume](https://github.com/rgentzler/ryans-resume).
+Source code: [github.com/rgentzler/cv](https://github.com/rgentzler/cv).
 
 Last updated on `r Sys.Date()`.
 
